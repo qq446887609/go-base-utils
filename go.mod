@@ -1,3 +1,3 @@
-module github.com/xiaojun207/go-base-utils
+module github.com/qq446887609/go-base-utils
 
 go 1.19
